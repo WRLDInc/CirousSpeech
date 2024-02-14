@@ -1,6 +1,6 @@
 # React Speech service sample app
 
-This sample shows how to integrate the Azure Speech service into a sample React application. This sample shows design pattern examples for authentication token exchange and management, as well as capturing audio from a microphone or file for speech-to-text conversions.
+This framework app to provide simple backend tools for on-the-fly transcription and translation for Cirous Interpreting, using Azure Speech service with React. This design is for capturing audio from a microphone or file for speech-to-text conversions.
 
 ## Prerequisites
 
