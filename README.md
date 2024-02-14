@@ -1,4 +1,4 @@
-# React Speech service sample app
+# Cirous Interpreting Speech service app with Azure Cognitive Services and WRLD
 
 This framework app to provide simple backend tools for on-the-fly transcription and translation for Cirous Interpreting, using Azure Speech service with React. This design is for capturing audio from a microphone or file for speech-to-text conversions.
 
